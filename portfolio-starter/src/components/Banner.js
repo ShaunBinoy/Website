@@ -53,8 +53,9 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="mx-w-lg mx-auto lg:mx-0"
             >
-              a9ufsn9aunsc9iunqw9undfia ecianwiundfaiwdciqa aqnwdum qiwjxdqudnq
-              cqiubfni jcin 8fc8un8 8qwhf8 8fqh fu q8g wefwg8y
+              Experienced MERN Stack Developer with a focus on both Front-End
+              and Back-End development. Dedicated to delivering high-quality
+              solutions and possessing strong problem-solving abilities.
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}
@@ -64,9 +65,7 @@ const Banner = () => {
               className="max-w-max mb-8 mx-auto lg:mx-0 mt-6 flex items-center gap-x-6"
             >
               <button className="btn btn-lg">Contact Me</button>
-              <div
-                className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0"
-              >
+              <div className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0">
                 <a href="#">
                   <FaYoutube />
                 </a>
