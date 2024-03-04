@@ -29,7 +29,7 @@ const educations = [
 
 const Services = () => {
   return (
-    <section className="section" id="services">
+    <section className="section mb-48 " id="services">
       <div className="container mx-auto flex">
         <div className="flex flex-col lg:flex-row">
           <div className="flex-1 mb-8">
